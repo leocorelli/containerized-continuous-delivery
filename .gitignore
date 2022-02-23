@@ -1,3 +1,6 @@
+# name of my venv
+cli-containerized
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
