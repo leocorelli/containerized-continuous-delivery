@@ -1,5 +1,5 @@
 # name of my venv
-cli-containerized
+containerized-continuous-delivery
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
