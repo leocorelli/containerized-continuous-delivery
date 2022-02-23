@@ -3,3 +3,7 @@ click
 pylint
 black
 fire
+fastapi
+uvicorn
+pytest
+requests
