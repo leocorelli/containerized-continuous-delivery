@@ -4,5 +4,6 @@ RUN mkdir -p /app
 COPY . /app/
 WORKDIR /app
 RUN pip install -r requirements.txt
-CMD [ "first_n_squares.py" ]
+EXPOSE 8080
+CMD [ "app.py" ]
 ENTRYPOINT [ "python" ]
